@@ -11,6 +11,7 @@ namespace OrleansObserverExample.Client;
 
 public class Program
 {
+    //入口
     public static async Task Main(string[] args)
     {
         var host = CreateHostBuilder(args).Build();
