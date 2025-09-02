@@ -1,0 +1,10 @@
+# 忽略编译输出
+bin/
+obj/
+
+# 其他常见的 .NET 临时文件
+*.user
+*.suo
+*.cache
+*.log
+*.vs/

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "main-chat",
+    "name": "主聊天室",
+    "description": "这是主要的聊天室，欢迎大家交流讨论",
+    "createdBy": "user1",
+    "createdAt": "2024-01-15T08:30:00Z",
+    "members": ["user1", "user2", "user3"],
+    "isActive": true,
+    "maxMembers": 100,
+    "settings": {
+      "allowFileUpload": true,
+      "allowImageShare": true,
+      "muteNewMembers": false
+    }
+  },
+  {
+    "id": "tech-chat",
+    "name": "技术讨论",
+    "description": "专门用于技术讨论的聊天室",
+    "createdBy": "user1",
+    "createdAt": "2024-02-01T10:00:00Z",
+    "members": ["user1", "user2"],
+    "isActive": true,
+    "maxMembers": 50,
+    "settings": {
+      "allowFileUpload": true,
+      "allowImageShare": false,
+      "muteNewMembers": true
+    }
+  },
+  {
+    "id": "random-chat",
+    "name": "随便聊聊",
+    "description": "轻松愉快的聊天环境",
+    "createdBy": "user2",
+    "createdAt": "2024-03-15T15:45:00Z",
+    "members": ["user2", "user3", "user4"],
+    "isActive": true,
+    "maxMembers": 200,
+    "settings": {
+      "allowFileUpload": false,
+      "allowImageShare": true,
+      "muteNewMembers": false
+    }
+  }
+]

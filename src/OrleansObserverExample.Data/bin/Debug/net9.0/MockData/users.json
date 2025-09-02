@@ -1,0 +1,55 @@
+[
+  {
+    "id": "user1",
+    "name": "张三",
+    "email": "zhangsan@example.com",
+    "createdAt": "2024-01-15T08:00:00Z",
+    "lastLoginAt": "2024-12-29T10:00:00Z",
+    "isActive": true,
+    "role": "Admin",
+    "metadata": {
+      "avatar": "https://example.com/avatars/user1.jpg",
+      "timezone": "Asia/Shanghai"
+    }
+  },
+  {
+    "id": "user2",
+    "name": "李四",
+    "email": "lisi@example.com",
+    "createdAt": "2024-02-20T09:30:00Z",
+    "lastLoginAt": "2024-12-29T09:45:00Z",
+    "isActive": true,
+    "role": "User",
+    "metadata": {
+      "avatar": "https://example.com/avatars/user2.jpg",
+      "timezone": "Asia/Shanghai"
+    }
+  },
+  {
+    "id": "user3",
+    "name": "王五",
+    "email": "wangwu@example.com",
+    "createdAt": "2024-03-10T14:20:00Z",
+    "lastLoginAt": "2024-12-28T16:30:00Z",
+    "isActive": true,
+    "role": "User",
+    "metadata": {
+      "avatar": "https://example.com/avatars/user3.jpg",
+      "timezone": "Asia/Shanghai"
+    }
+  },
+  {
+    "id": "user4",
+    "name": "赵六",
+    "email": "zhaoliu@example.com",
+    "createdAt": "2024-04-05T11:15:00Z",
+    "lastLoginAt": "2024-12-27T13:20:00Z",
+    "isActive": false,
+    "role": "User",
+    "metadata": {
+      "avatar": "https://example.com/avatars/user4.jpg",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
+

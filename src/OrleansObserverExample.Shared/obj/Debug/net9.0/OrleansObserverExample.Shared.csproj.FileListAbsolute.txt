@@ -1,0 +1,12 @@
+D:\Project\Obsever\src\OrleansObserverExample.Shared\bin\Debug\net9.0\OrleansObserverExample.Shared.deps.json
+D:\Project\Obsever\src\OrleansObserverExample.Shared\bin\Debug\net9.0\OrleansObserverExample.Shared.dll
+D:\Project\Obsever\src\OrleansObserverExample.Shared\bin\Debug\net9.0\OrleansObserverExample.Shared.pdb
+D:\Project\Obsever\src\OrleansObserverExample.Shared\obj\Debug\net9.0\OrleansObserverExample.Shared.csproj.AssemblyReference.cache
+D:\Project\Obsever\src\OrleansObserverExample.Shared\obj\Debug\net9.0\OrleansObserverExample.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Obsever\src\OrleansObserverExample.Shared\obj\Debug\net9.0\OrleansObserverExample.Shared.AssemblyInfoInputs.cache
+D:\Project\Obsever\src\OrleansObserverExample.Shared\obj\Debug\net9.0\OrleansObserverExample.Shared.AssemblyInfo.cs
+D:\Project\Obsever\src\OrleansObserverExample.Shared\obj\Debug\net9.0\OrleansObserverExample.Shared.csproj.CoreCompileInputs.cache
+D:\Project\Obsever\src\OrleansObserverExample.Shared\obj\Debug\net9.0\OrleansObserverExample.Shared.dll
+D:\Project\Obsever\src\OrleansObserverExample.Shared\obj\Debug\net9.0\refint\OrleansObserverExample.Shared.dll
+D:\Project\Obsever\src\OrleansObserverExample.Shared\obj\Debug\net9.0\OrleansObserverExample.Shared.pdb
+D:\Project\Obsever\src\OrleansObserverExample.Shared\obj\Debug\net9.0\ref\OrleansObserverExample.Shared.dll

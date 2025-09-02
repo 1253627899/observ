@@ -1,0 +1,66 @@
+[
+  {
+    "id": "msg1",
+    "chatRoomId": "main-chat",
+    "senderId": "user1",
+    "senderName": "张三",
+    "content": "欢迎大家来到聊天室！",
+    "type": 1,
+    "sentAt": "2024-12-29T08:00:00Z",
+    "isDeleted": false,
+    "metadata": {
+      "isWelcomeMessage": true
+    }
+  },
+  {
+    "id": "msg2",
+    "chatRoomId": "main-chat",
+    "senderId": "user2",
+    "senderName": "李四",
+    "content": "大家好！很高兴认识大家",
+    "type": 0,
+    "sentAt": "2024-12-29T08:15:00Z",
+    "isDeleted": false,
+    "metadata": {}
+  },
+  {
+    "id": "msg3",
+    "chatRoomId": "main-chat",
+    "senderId": "user3",
+    "senderName": "王五",
+    "content": "今天天气真不错",
+    "type": 0,
+    "sentAt": "2024-12-29T09:30:00Z",
+    "isDeleted": false,
+    "metadata": {}
+  },
+  {
+    "id": "msg4",
+    "chatRoomId": "tech-chat",
+    "senderId": "user1",
+    "senderName": "张三",
+    "content": "Orleans 框架真的很强大",
+    "type": 0,
+    "sentAt": "2024-12-29T10:00:00Z",
+    "isDeleted": false,
+    "metadata": {
+      "category": "orleans"
+    }
+  },
+  {
+    "id": "msg5",
+    "chatRoomId": "tech-chat",
+    "senderId": "user2",
+    "senderName": "李四",
+    "content": "是的，分布式系统的好选择",
+    "type": 0,
+    "sentAt": "2024-12-29T10:15:00Z",
+    "isDeleted": false,
+    "metadata": {
+      "category": "orleans"
+    }
+  }
+]
+
+
+
